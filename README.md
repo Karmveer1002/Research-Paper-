@@ -8,10 +8,10 @@ The study involved designing a structured pedagogical evaluation framework, coll
 
 🔧 Tools & Technologies
 
-Python
-Google Forms
-Microsoft Excel
-Data Visualization (Charts & Graphs)
+Python,
+Google Forms,
+Microsoft Excel,
+Data Visualization (Charts & Graphs),
 Bloom's Taxonomy
 
 
